@@ -8,3 +8,5 @@ This project is a web-based implementation of the classic Rock Paper Scissors ga
 - HTML: For creating the structure of web pages
 - CSS: For styling and organizing content
 - JavaScript: For adding interactivity and behaviour to web pages
+## Image
+![RPS](https://github.com/NiharikaSaxena18/Rock-Paper-Scissors/assets/145530524/e0a18d8e-db68-444b-acc8-8baf0d59f225)
